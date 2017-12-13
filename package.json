@@ -6,7 +6,10 @@
   "dependencies": {
     "mongoose": "^4.13.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
   "scripts": {
     "test": "pro1"
   },
