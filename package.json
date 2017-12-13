@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^4.13.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "pro1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shalinit3/node_project1.git"
+  },
+  "author": "Shalini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shalinit3/node_project1/issues"
+  },
+  "homepage": "https://github.com/Shalinit3/node_project1#readme"
+}
