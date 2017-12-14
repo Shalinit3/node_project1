@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 const schema = mongoose.Schema;
 
-const USERDATA = new schema({
+const User = new schema({
     name : String ,
     email : { 
         type : String ,
@@ -19,4 +19,4 @@ const USERDATA = new schema({
     }
 });
 
-export default USERDATA ;
+export default mongoose.model('userData', User) ;
