@@ -7,7 +7,7 @@
 6 silly lifecycle project1@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle project1@1.0.0~start: project1@1.0.0
 8 verbose lifecycle project1@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle project1@1.0.0~start: PATH: /usr/share/npm/bin/node-gyp-bin:/home/shalini/Desktop/project1/node_modules/.bin:/home/shalini/bin:/home/shalini/.local/bin:/home/shalini/bin:/home/shalini/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle project1@1.0.0~start: PATH: /usr/share/npm/bin/node-gyp-bin:/home/shalini/Desktop/project1/node_modules/.bin:/home/shalini/bin:/home/shalini/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 10 verbose lifecycle project1@1.0.0~start: CWD: /home/shalini/Desktop/project1
 11 silly lifecycle project1@1.0.0~start: Args: [ '-c', 'babel-node index.js --presets es2015,stage-2' ]
 12 silly lifecycle project1@1.0.0~start: Returned: code: 1  signal: null

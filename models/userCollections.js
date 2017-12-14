@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 const schema = mongoose.Schema;
 
-const USERDATA = new Schema({
+const USERDATA = new schema({
     name : String ,
     email : { 
         type : String ,
